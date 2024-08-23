@@ -158,9 +158,6 @@ namespace obst
                             break;
 
                         case "3":
-
-
-
                         customer.Checkout(shop);
                             break;
 
